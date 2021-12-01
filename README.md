@@ -1,2 +1,1 @@
-# **worry less & stay curious**
-A CS undergraduate at UW-Madion
+A CS&DS undergraduate at UW-Madion
